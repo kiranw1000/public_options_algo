@@ -1,0 +1,1 @@
+ticklist = ["V","CVX","ATVI","CAT","ORCL","PFE","AAPL","GME","MSFT","AMD","S","KO",'FB','AMZN','LCID','F','CSCO','GM','CMCSA','EBAY',"DIS","PTON","TWTR","HD","SBUX","SNAP","SQ","BABA","AFRM","SOFI","F","BA","CAT","LOW","ATVI","PFE","NIO","NVDA","JPM","PEP","WFC","AAL","NKE","VZ","MRVL","PYPL","ABNB","LCID","DASH","LYFT","UBER","CSCO","MS","RBLX","MU","BAC","MRNA","NEGG","PG"]
