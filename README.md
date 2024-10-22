@@ -7,4 +7,4 @@ Use xavier.py to run as python file
 
 Fill in accounts.py and config.py with necessary credentials (accounts.py contains names and account numbers of tdameritrade accounts)
 
-Add sub-repo tokens with json files containing the access tokens for tdameritrade accounts
+Add sub-folder called "tokens" with json files containing the access tokens for alternative tdameritrade accounts
